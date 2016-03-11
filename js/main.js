@@ -8,7 +8,7 @@ $('.more-dinos').remove();
 
 dinos.forEach(function (dino) {
   var $li = $('<li>');
-  var $figure = $('<figure');
+  var $figure = $('<figure>');
   var $img = $('<img>');
   var $caption = $('<figcaption>');
 
