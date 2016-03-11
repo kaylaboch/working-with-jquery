@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+
+  font: normal 100%/1.5 "Source Sans Pro", sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.dino-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.dino-list li {
+  margin-bottom: 1.5rem;
+}
+
+.dino-list figure{
+  margin: 0;
+}
+
+.dino-list img {
+  display: block;
+  width: 200px;
+}
