@@ -5,7 +5,7 @@ var dinos = [
   },
   {
     name: 'Hadrosaur',
-    img: 'hadrosaur',
+    img: 'hadrosaur.jpg',
   },
   {
     name: 'Iguanodon',
